@@ -1,7 +1,5 @@
 # Hi 👋, I'm Bar Harush
 
-### Data Analyst at Bezeq Online
-
 Hello! I'm Bar Harush, a Data Analyst at Bezeq Online. Here you can explore my projects and contributions showcasing my programming skills and ongoing learning.
 
 ### Connect with me:
