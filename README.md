@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bar Harush</h1>
-<h3 align="center">Data Analyst at Bezeq Online</h3>
+
 
 <p align="center">Hello! I'm Bar Harush, a Data Analyst at Bezeq Online. Here you can explore my projects and contributions showcasing my programming skills and ongoing learning.</p>
 
