@@ -1,5 +1,7 @@
 # Hi 👋, I'm Bar Harush
 
+### Data Analyst at Bezeq Online
+
 Hello! I'm Bar Harush, a Data Analyst at Bezeq Online. Here you can explore my projects and contributions showcasing my programming skills and ongoing learning.
 
 ### Connect with me:
@@ -12,7 +14,7 @@ Hello! I'm Bar Harush, a Data Analyst at Bezeq Online. Here you can explore my p
 ### Languages I Know:
 - **C**: Experienced in systems programming and embedded systems.
 - **C#**: Proficient in developing Windows applications and working with .NET.
-- **Python**: Skilled in scripting, automation, and data analysis.
+- **Python**: Skilled in scripting, automation, data analysis, and machine learning.
 - **Kotlin**: Familiar with Android development and modern JVM-based applications.
 - **HTML**: Experienced in building and designing web pages.
 - **Jenkins**: Knowledgeable in continuous integration and deployment.
@@ -63,5 +65,9 @@ Hello! I'm Bar Harush, a Data Analyst at Bezeq Online. Here you can explore my p
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
 </p>
+
+### Data Analysis and Machine Learning:
+- **Data Analysis**: Experience with data visualization, statistical analysis, and data cleaning using Python libraries such as Pandas, NumPy, and Matplotlib.
+- **Machine Learning**: Knowledgeable in machine learning algorithms and frameworks, including Scikit-Learn and TensorFlow. Applied machine learning techniques for predictive modeling and data-driven insights.
 
 Feel free to browse my repositories, and don’t hesitate to reach out if you have any questions or collaboration ideas!
