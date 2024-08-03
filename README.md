@@ -12,6 +12,13 @@ Hello! I'm Bar Harush, a Data Analyst at Bezeq Online. Here you can explore my p
 </p>
 
 ### Languages I Know:
+- **C**: Experienced in systems programming and embedded systems.
+- **C#**: Proficient in developing Windows applications and working with .NET.
+- **Python**: Skilled in scripting, automation, and data analysis.
+- **Kotlin**: Familiar with Android development and modern JVM-based applications.
+- **HTML**: Experienced in building and designing web pages.
+- **Jenkins**: Knowledgeable in continuous integration and deployment.
+
 <p>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -34,6 +41,10 @@ Hello! I'm Bar Harush, a Data Analyst at Bezeq Online. Here you can explore my p
 </p>
 
 ### Languages I'm Learning:
+- **JavaScript**: Exploring web development and server-side scripting.
+- **Node.js**: Delving into server-side JavaScript and backend development.
+- **TypeScript**: Learning advanced JavaScript with type safety and modern features.
+
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -47,6 +58,8 @@ Hello! I'm Bar Harush, a Data Analyst at Bezeq Online. Here you can explore my p
 </p>
 
 ### Development Experience:
+- **Android Studio**: Proficient in developing Android applications and familiar with the Android ecosystem.
+
 <p>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
