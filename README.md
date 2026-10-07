@@ -1,73 +1,21 @@
-# Hi 👋, I'm Bar Harush
+# Hi, I'm Bar Harush 👋
 
-### Data Analyst at Bezeq Online
+I build web and Android products, with a background in data analysis. My recent work spans full-stack development, real-time systems, and deployment infrastructure.
 
-Hello! I'm Bar Harush, a Data Analyst at Bezeq Online. Here you can explore my projects and contributions showcasing my programming skills and ongoing learning.
+## What I work with
 
-### Connect with me:
-<p>
-  <a href="https://www.linkedin.com/in/bar-harush/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bar Harush LinkedIn" height="30" width="40" />
-  </a>
-</p>
+- **Web:** TypeScript, React, Node.js, NestJS
+- **Android:** Kotlin, Android Studio
+- **Data:** Python, Pandas, NumPy, data visualization
+- **Infrastructure:** PostgreSQL, Redis, Docker, AWS, CI/CD
 
-### Languages I Know:
-- **C**: Experienced in systems programming and embedded systems.
-- **C#**: Proficient in developing Windows applications and working with .NET.
-- **Python**: Skilled in scripting, automation, data analysis, and machine learning.
-- **Kotlin**: Familiar with Android development and modern JVM-based applications.
-- **HTML**: Experienced in building and designing web pages.
-- **Jenkins**: Knowledgeable in continuous integration and deployment.
+## Current focus
 
-<p>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  </a>
-</p>
+I'm working on **Fixie**, a service platform with customer and technician apps, real-time dispatch, and an admin backoffice. The project brings together API design, mobile and web clients, shared contracts, geospatial routing, and cloud deployment.
 
-### Languages I'm Learning:
-- **JavaScript**: Exploring web development and server-side scripting.
-- **Node.js**: Delving into server-side JavaScript and backend development.
-- **TypeScript**: Learning advanced JavaScript with type safety and modern features.
+## Selected public projects
 
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-</p>
+- [Data science](https://github.com/barharush9/data_science) — data collection, analysis, and machine learning on Flickr data.
+- [DevOps final project](https://github.com/barharush9/Devops_Final_Project) — CI/CD and deployment practice.
 
-### Development Experience:
-- **Android Studio**: Proficient in developing Android applications and familiar with the Android ecosystem.
-
-<p>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-</p>
-
-### Data Analysis and Machine Learning:
-- **Data Analysis**: Experience with data visualization, statistical analysis, and data cleaning using Python libraries such as Pandas, NumPy, and Matplotlib.
-- **Machine Learning**: Knowledgeable in machine learning algorithms and frameworks, including Scikit-Learn and TensorFlow. Applied machine learning techniques for predictive modeling and data-driven insights.
-
-Feel free to browse my repositories, and don’t hesitate to reach out if you have any questions or collaboration ideas!
+[Connect with me on LinkedIn](https://www.linkedin.com/in/bar-harush/)
