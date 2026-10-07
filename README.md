@@ -1,21 +1,14 @@
 # Hi, I'm Bar Harush 👋
 
-I build web and Android products, with a background in data analysis. My recent work spans full-stack development, real-time systems, and deployment infrastructure.
+I'm building **Fixie**, a service platform connecting customers and technicians. My work spans the customer and technician web apps, Android app, backend APIs, real-time dispatch, backoffice, and deployment infrastructure.
 
-## What I work with
+## What I'm working on now
 
-- **Web:** TypeScript, React, Node.js, NestJS
-- **Android:** Kotlin, Android Studio
-- **Data:** Python, Pandas, NumPy, data visualization
-- **Infrastructure:** PostgreSQL, Redis, Docker, AWS, CI/CD
+- **Product and web:** React, TypeScript, Vite
+- **Backend and real-time:** NestJS, Node.js, Socket.IO, PostgreSQL, Redis
+- **Android:** Kotlin and Android Studio
+- **Infrastructure:** Docker, AWS, CI/CD
 
-## Current focus
-
-I'm working on **Fixie**, a service platform with customer and technician apps, real-time dispatch, and an admin backoffice. The project brings together API design, mobile and web clients, shared contracts, geospatial routing, and cloud deployment.
-
-## Selected public projects
-
-- [Data science](https://github.com/barharush9/data_science) — data collection, analysis, and machine learning on Flickr data.
-- [DevOps final project](https://github.com/barharush9/Devops_Final_Project) — CI/CD and deployment practice.
+I focus on keeping web, mobile, and backend contracts aligned while making real-time job flows reliable.
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/bar-harush/)
